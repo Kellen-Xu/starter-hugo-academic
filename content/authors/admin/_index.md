@@ -1,6 +1,6 @@
 ---
 title: Zikun Xu (Kellen)
-role: PG student of Imperial College London
+role: PG student of MSc Applied Machine Learning
 avatar_filename: photo.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/
 education:
   courses:
     - course: PhD in Artificial Intelligence
